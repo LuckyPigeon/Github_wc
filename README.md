@@ -1,2 +1,5 @@
 # Github_wc
-LInux command wc implement on github pages
+## Linux command wc implement on github pages
+## Folder
+* javascript - javascript implementation
+* python - python implementation
